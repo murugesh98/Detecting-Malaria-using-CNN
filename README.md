@@ -1,6 +1,6 @@
 # Detecting Malaria using CNN
 
-A convolutional neural network to classify blood cells between malaria indected and non-infected cases.
+A convolutional neural network to classify blood cells between malaria infected and non-infected cases.
 
 ## ABOUT ME:
 Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist. 
